@@ -1,0 +1,27 @@
+.one{
+  color:green;
+  padding-left: 1px;
+  font-size:x-large;
+  font-family: 'Times New Roman', Times, serif;
+
+ 
+}
+.two{
+  background-color: papayawhip;
+  border-radius: 40%;
+}
+.media{
+font-size: larger;
+font-family: 'Times New Roman', Times, serif;
+text-align: center;}
+.card-img-overlay{
+  text-align: center;
+  font-size: larger;
+font-family: 'Times New Roman', Times, serif;
+}
+
+.card-title{
+  color: green;
+  font-family: 'Times New Roman', Times, serif;
+
+}
